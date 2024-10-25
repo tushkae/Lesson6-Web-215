@@ -7,7 +7,40 @@
 .flex-block { width: 310px; height: 430px;}
 .row1 { display: flex; justify-content: space-between; margin-top: 48px;}
 .row2 { display: flex; justify-content: space-between; margin-top: 48px;}
-.gamaertianebeli { margin: 0 auto; display: flex; justify-content: space-between; }
-.icon-wraper { display: flex; margin-top: 28px;}
-.logo { margin-bottom: 32px;}
-.sigane { width: 306px;}
+
+.footer-item-wrapper {
+    padding: 80px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-item-header {
+    height: 100px;
+}
+.footer-logo {
+    width: 100px;
+    height: 64px;
+}
+.footer-item-header-title {
+    font-size: 24px;
+}
+.icon-wraper {
+    display: flex;
+    margin-top: 28px;
+}
+.footer-paragraph {
+    width: 306px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.footer-language-button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+.footer-anchor {
+    color: gray;
+}
