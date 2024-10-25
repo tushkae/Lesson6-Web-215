@@ -3,3 +3,11 @@
 .satauri2 {font-size: 54px ;}
 .sigane {width: 760px; text-align: center; margin: 0 auto; font-size: 20px;}
 .headeri {margin-top: 80px;}
+.flex-box { margin: 0 auto; width: 1336px;}
+.flex-block { width: 310px; height: 430px;}
+.row1 { display: flex; justify-content: space-between; margin-top: 48px;}
+.row2 { display: flex; justify-content: space-between; margin-top: 48px;}
+.gamaertianebeli { margin: 0 auto; display: flex; justify-content: space-between; }
+.icon-wraper { display: flex; margin-top: 28px;}
+.logo { margin-bottom: 32px;}
+.sigane { width: 306px;}
