@@ -1,10 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 .Satauri {text-align: center;}
 .satauri1 {font-size: 16px ;}
 .satauri2 {font-size: 54px ;}
 .sigane {width: 760px; text-align: center; margin: 0 auto; font-size: 20px;}
 .headeri {margin-top: 80px;}
-.flex-box { margin: 0 auto; width: 1336px;}
-.flex-block { width: 310px; height: 430px;}
 .row1 { display: flex; justify-content: space-between; margin-top: 48px;}
 .row2 { display: flex; justify-content: space-between; margin-top: 48px;}
 
@@ -43,4 +43,45 @@
 }
 .footer-anchor {
     color: gray;
+}
+.flex-box { 
+    margin: 0 auto; 
+    width: 1336px;
+}
+.flex-block { 
+    width: 310px;
+    height: 430px;
+    border: 1px solid #EAECF0;
+    margin: 16px;
+}
+.block-body {
+    padding: 16px;
+}
+h3{
+    margin: 0px;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: "Inter", serif;
+    color: #282828;
+}
+h5{
+    margin: 0px;
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Inter", serif;
+    color: #3E3E59;
+}
+.block-body p{
+    margin: 0;  
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Inter", serif;
+}
+.socials-row{
+    margin-top: 24px;
+    width: 278px;
+    height: 36px;
+    gap: 24px;
 }
